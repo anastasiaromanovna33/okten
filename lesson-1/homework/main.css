@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+    background-color: black;
+    color: gold;
+    font-size: 45px;
+}
+h2 {
+
+    text-align: center;
+    background-color: black;
+
+}
+a{
+    font-size: 30px;
+    text-align: center;
+
+    color: gold;
+}
+p {
+    font-size: 20px;
+    background-color: gold;
+    color: black;
+}
+ul {
+    font-size: 20px;
+    background-color: lightyellow;
+    color: black;
+}
