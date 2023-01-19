@@ -1,0 +1,12 @@
+.target{
+    height: 200px;
+    width: 400px;
+    background-color: silver;
+
+
+    /*border-box фиксирует размер блока */
+    box-sizing: border-box;
+    padding: 10px 20px 30px 40px;
+    /*top-left-bottom-right*/
+
+}
