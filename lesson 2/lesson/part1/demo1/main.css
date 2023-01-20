@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+}
+
+p {
+    text-align: justify;
+}
+
+html, body{
+    scroll-behavior: smooth;
+}
+
+a:visited {
+    color: black;
+}
