@@ -1,0 +1,33 @@
+img {
+    width: 200px;
+    display: block;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+
+p {
+    text-align: justify;
+    background: silver;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    border: 10px solid antiquewhite;
+}
+
+html, body{
+    scroll-behavior: smooth;
+}
+
+a:visited {
+    color: black;
+}
+
+div {
+    width: 600px;
+}
+
+h2 {
+    background: lightcoral;
+    width: 50%;
+}
