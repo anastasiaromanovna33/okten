@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+/*flex container*/
+.father {
+    width: 100%;
+    height: 600px;
+    background: silver;
+    display: flex;
+}
+
+.box {
+    height: 150px;
+    width: 250px;
+}
+
+.box:nth-child(1) {
+    background: indianred;
+}
+
+.box:nth-child(2) {
+    background: cornflowerblue;
+}
+
+.box:nth-child(3) {
+    background: black;
+    color: white;
+}
+
