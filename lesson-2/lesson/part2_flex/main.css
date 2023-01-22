@@ -25,7 +25,7 @@ body {
 
 .box:nth-child(1) {
     background: indianred;
-    order: 3;
+
 }
 
 .box:nth-child(2) {
