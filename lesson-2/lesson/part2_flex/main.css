@@ -8,19 +8,24 @@ body {
     background: silver;
     display: flex;
     /*horizontal*/
-    justify-content: flex-end;
-    /*vertical*/
-    align-items: flex-end;
+    justify-content: center;
+    /*vertical */
+    align-items: center;
+    flex-direction: column;
 
 }
 
 .box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     height: 150px;
     width: 250px;
 }
 
 .box:nth-child(1) {
     background: indianred;
+    order: 3;
 }
 
 .box:nth-child(2) {
