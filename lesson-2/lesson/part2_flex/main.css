@@ -7,6 +7,11 @@ body {
     height: 600px;
     background: silver;
     display: flex;
+    /*horizontal*/
+    justify-content: flex-end;
+    /*vertical*/
+    align-items: flex-end;
+
 }
 
 .box {
