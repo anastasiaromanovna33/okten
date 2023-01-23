@@ -11,6 +11,7 @@ body {
     justify-content: flex-start;
     /*vertical */
     align-items: flex-start;
+    flex-wrap: wrap;
 
 
 }
