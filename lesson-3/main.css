@@ -1,0 +1,31 @@
+.target {
+    width: 200px;
+    height: 200px;
+    background: black;
+    transition: 300ms;
+}
+
+.target:hover {
+    background: silver;
+}
+
+input[type='text']{
+    background: silver;
+}
+
+input[placeholder]{
+    background: lightcyan;
+}
+
+.target + p {
+    background: cornflowerblue;
+}
+.target1 {
+    width: 200px;
+    height: 200px;
+    background: black;
+    transition: 300ms;
+}
+.target1 ~ p {
+    background: cornflowerblue;
+}
