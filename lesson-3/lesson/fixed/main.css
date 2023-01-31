@@ -1,0 +1,40 @@
+.father {
+    height: 60px;
+    background: cornflowerblue;
+}
+
+.target {
+    margin-top: -10px;
+    width: 100%;
+    height: 50px;
+    background: silver;
+    position: fixed;
+}
+
+.w200 {
+    width: 200px;
+}
+
+.w300 {
+    width: 300px;
+}
+
+.h50 {
+    height: 50px;
+}
+
+.h75 {
+    height: 75px;
+}
+
+.pink {
+    background: lightpink;
+}
+
+.coral {
+    background: coral;
+}
+
+.fa-arrows-rotate {
+    font-size: 100px;
+}

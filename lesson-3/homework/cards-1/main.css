@@ -1,0 +1,63 @@
+
+.cards {
+    margin: 30px;
+    margin-top: 150px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.box {
+    text-align: center;
+    width: 350px;
+    margin: 30px;
+    border: solid 1px gray;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px;
+    font-size: 30px;
+
+}
+.box>p {
+    color: grey;
+}
+
+.text{
+    width: 250px;
+    height: 50px;
+    border: solid 1px black;display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box>a {
+    text-decoration: none;
+    color: black;
+}
+.box>a:visited {
+    color: black;
+
+}
+.text:hover {
+    background: coral;
+    color: white;
+    border: solid 1px white;
+}
+
+.icon {
+    height: 100px;
+    width: 100px;
+   background: white;
+    position: absolute;
+    top: -50px;
+    border: solid 1px gray;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: coral;
+}

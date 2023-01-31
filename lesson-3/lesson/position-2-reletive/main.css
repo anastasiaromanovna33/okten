@@ -1,0 +1,17 @@
+.box {
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+
+.box:nth-child(1) {
+    background: red;
+
+}
+.box:nth-child(2) {
+    background: green;
+    top: 10px;
+}
+.box:nth-child(3) {
+    background: blue;
+}
