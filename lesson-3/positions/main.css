@@ -1,0 +1,15 @@
+
+/*начало*/
+[href^='owu'] {
+    background: silver;
+}
+
+/*конец*/
+[href$='ua'] {
+    background: lightblue;
+}
+
+/*всё*/
+[href*='studyhub'] {
+    background: lightseagreen;
+}
