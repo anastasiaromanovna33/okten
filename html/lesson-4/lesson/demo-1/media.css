@@ -1,0 +1,43 @@
+/*XS size*/
+
+@media screen and (min-width: 0 ) and (max-width: 575px){
+    .target {
+        height: 100px;
+        background: cornflowerblue;
+    }
+}
+/*S size*/
+@media screen and (min-width: 576px ) and (max-width: 767px){
+    .target {
+        height: 200px;
+        background: lightpink;
+    }
+}
+/*M size*/
+@media screen and (min-width: 768px ) and (max-width: 991px){
+    .target {
+        height: 200px;
+        background: lightpink;
+    }
+}
+/*L size*/
+@media screen and (min-width: 992px ) and (max-width: 1199px){
+    .target {
+        height: 200px;
+        background: lightpink;
+    }
+}
+/*XL size*/
+@media screen and (min-width: 1200px ) and (max-width: 1399px) {
+    .target {
+        height: 200px;
+        background: lightpink;
+    }
+}
+/*XXL size*/
+@media screen and (min-width: 1300px ) {
+    .target {
+        height: 200px;
+        background: lightpink;
+    }
+}

@@ -4,9 +4,3 @@
     background: silver;
 }
 
-@media screen and (min-width: 0 ) and (max-width: 700px){
-    .target {
-        height: 100px;
-        background: cornflowerblue;
-    }
-}
