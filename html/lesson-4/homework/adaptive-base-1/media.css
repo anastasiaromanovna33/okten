@@ -1,0 +1,176 @@
+/*XS size*/
+
+@media screen and (min-width: 0 ) and (max-width: 575px) {
+
+
+    .block-a {
+        height: 200px;
+        width: auto;
+        margin: 15px;
+    }
+
+    .block-b {
+        height: 500px;
+        width: 100%;
+        margin: 15px;
+
+    }
+
+    .block-c {
+        height: 200px;
+        width: 100%;
+        margin: 15px;
+
+
+    }
+
+    .block-b-c {
+        flex-direction: column;
+        margin: 15px;
+        height: 700px;
+        width: auto;
+
+    }
+}
+
+/*S size*/
+@media screen and (min-width: 576px ) and (max-width: 767px) {
+
+    .block-a {
+        height: 200px;
+        width: auto;
+        margin: 15px;
+    }
+
+    .block-b {
+        height: 500px;
+        width: 100%;
+        margin: 15px;
+
+    }
+
+    .block-c {
+        height: 200px;
+        width: 100%;
+        margin: 15px;
+
+
+    }
+
+    .block-b-c {
+        flex-direction: column;
+        margin: 15px;
+        height: 700px;
+        width: auto;
+
+    }
+}
+
+
+/*M size*/
+@media screen and (min-width: 768px ) and (max-width: 991px) {
+
+    .block-a {
+        height: 200px;
+        width: auto;
+        margin: 15px;
+    }
+
+    .block-b {
+        height: 500px;
+        width: 100%;
+        margin: 15px;
+
+    }
+
+    .block-c {
+        height: 200px;
+        width: 100%;
+        margin: 15px;
+
+
+    }
+
+    .block-b-c {
+        flex-direction: column;
+        margin: 15px;
+        height: 700px;
+        width: auto;
+
+    }
+}
+
+/*L size*/
+@media screen and (min-width: 992px ) and (max-width: 1199px) {
+
+    .block-a {
+        height: 200px;
+        width: auto;
+        margin: 15px;
+    }
+
+    .block-b {
+        height: 500px;
+        width: 100%;
+        margin: 15px;
+
+    }
+
+    .block-c {
+        height: 200px;
+        width: 100%;
+        margin: 15px;
+
+    }
+
+    .block-b-c {
+        flex-direction: column;
+        margin: 15px;
+        height: 700px;
+        width: auto;
+
+    }
+}
+
+/*XL size*/
+@media screen and (min-width: 1200px ) and (max-width: 1399px) {
+
+    .block-a {
+        height: 200px;
+        width: auto;
+        margin: 15px;
+    }
+
+    .block-b {
+        height: 500px;
+        width: 100%;
+        margin: 15px;
+
+    }
+
+    .block-c {
+        height: 200px;
+        width: 100%;
+        margin: 15px;
+
+    }
+
+    .block-b-c {
+        flex-direction: column;
+        margin: 15px;
+        height: 700px;
+        width: auto;
+
+    }
+}
+
+/*XXL size*/
+@media screen and (min-width: 1400px ) {
+
+    .block-a {
+        width: auto;
+        margin: 15px;
+    }
+
+
+}
